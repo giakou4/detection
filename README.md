@@ -7,3 +7,4 @@ Models included are:
 3. YOLOv5 by [Ultralytics](https://github.com/ultralytics/yolov5) (Python [PyTorch](https://pytorch.org/) backbone)
 4. YOLOv7 by [Chien-Yao Wang](https://github.com/WongKinYiu/yolov7) (Python [PyTorch](https://pytorch.org/) backbone)
 5. Fast R-CNN, Faster R-CNN, FCOS, RetinaNet, RPN, Mask R-CNN by [Facebook](https://www.facebook.com/) in [Detectron2](https://github.com/facebookresearch/detectron2) framework (Python [PyTorch](https://pytorch.org/) backbone)
+6. CenterNet, EfficientDet D0-D7, SSD, Faster R-CNN, Mask R-CNN in [TensorFlow 2.x Object Detection API](https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html) ([TensorFlow](https://www.tensorflow.org/) backbone)
