@@ -1,6 +1,6 @@
 # Object Detection
 
-Simple [Jupyter Notebooks](https://jupyter.org/) for object detection models. Datasets are downlaoded from [Roboflow](https://roboflow.com/).
+Simple [Jupyter Notebooks](https://jupyter.org/) for object detection models. Datasets are downlaoded from [Roboflow](https://roboflow.com/). The notebooks were used to run on [Google Colab](https://colab.research.google.com/), and are plug-and-play solutions with only some tuning of hyperparameters needed.
 Models included are:
 1. YOLOv3 and YOLOv4 in original [Darknet](https://pjreddie.com/darknet/yolo/) (C implementation)
 2. YOLOv3 by [Ultralytics](https://github.com/ultralytics/yolov3) (Python [PyTorch](https://pytorch.org/) backbone)
