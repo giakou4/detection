@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA">
-</p>
-
-<p align="center">
   <img width="800" height="500" src="https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA">
 </p>
 
