@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="800" height="300" src="[[https://github.com/giakou4/features/blob/main/demo/data/f.png](https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA)](https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA)">
+  <img width="800" height="300" src="https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA">
 </p>
 
 # Object Detection Frameworks
