@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O36QYP7K4ZQAUGDOD4Y2PWHDA">
+  <img src="https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O2JMKSLO2MGB5L4NR4Y2PWLHQ">
 </p>
 
 # Object Detection Frameworks
