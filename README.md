@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA">
 </p>
 
+<p align="center">
+  <img width="800" height="300" src="[https://github.com/giakou4/features/blob/main/demo/data/f.png](https://raw.githubusercontent.com/giakou4/detection/main/bg.jpg?token=GHSAT0AAAAAAB2B56O233V4UXWJM32RLCESY2PVQFA)">
+</p>
+
 # Object Detection Frameworks
 
 Simple [Jupyter Notebooks](https://jupyter.org/) for object detection models. Datasets are downlaoded from [Roboflow](https://roboflow.com/). The notebooks were used to run on [Google Colab](https://colab.research.google.com/), and are plug-and-play solutions with only some tuning of hyperparameters needed.
