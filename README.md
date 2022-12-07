@@ -4,6 +4,9 @@
 
 # Object Detection Frameworks
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/detection/LICENSE)
+
 Simple [Jupyter Notebooks](https://jupyter.org/) for object detection models. Datasets are downlaoded from [Roboflow](https://roboflow.com/). The notebooks were used to run on [Google Colab](https://colab.research.google.com/), and are plug-and-play solutions with only some tuning of hyperparameters needed.
 Models included are:
 1. YOLOv3 and YOLOv4 in original [Darknet](https://pjreddie.com/darknet/yolo/) (C implementation)
